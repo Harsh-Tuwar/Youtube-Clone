@@ -1,3 +1,20 @@
+## Quick Start
+
+``` bash
+# Clone it
+git clone https://github.com/Harsh-Tuwar/Youtube-Clone.git
+
+# Install dependencies
+npm install
+
+# Change API KEY with your API KEY in App.js
+
+# local server on http://localhost:3000
+yarn dev
+```
+
+### Default
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +83,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
